@@ -1,0 +1,46 @@
+.caixa {
+    width: 1200px;
+    height: 700px;
+    border-radius: 20px;
+    border: 1px solid #E1E1E1;
+   
+    margin: 40px 0 60px auto;
+    
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    border-bottom: 1px solid #E1E1E1;
+}
+
+header .titulo {
+    display: flex;
+    align-items: center;
+
+}
+
+header .titulo h1 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 22px;
+    color: #75727F
+}
+
+header .btn {
+    margin-left: 25px;
+}
+
+.tabela{
+    padding: 25px;
+   
+}
+
+.alert{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    
+}
