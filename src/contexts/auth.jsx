@@ -3,6 +3,8 @@ import { createContext, useState } from "react";
 
 export const AuthContext = createContext({})
 
+// username: "mor_2314"
+// password: "83r5^_"
 
 export function AuthProvider({ children }) {
 
